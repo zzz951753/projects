@@ -1,3 +1,9 @@
-创建git仓库 mkdir path； cd path；
-初始化git仓库 git init
-删除仓库 rm -rf path；
+显示当前目录 pwd
+跳转目录 cd path
+创建仓库 mkdir path    cd path
+初始化库 git init
+删除仓库 rm -rf path
+下载gitHub项目 git clone 地址
+将改动地方添加到版本管理器 git add 文件名/.     
+提交到本地版本控制库  git commit -m "提交说明"
+本地仓库提交到gitHub账号  git push -u origin master
