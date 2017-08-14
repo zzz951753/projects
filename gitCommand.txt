@@ -1,0 +1,3 @@
+´´½¨git²Ö¿â mkdir path£» cd path£»
+³õÊ¼»¯git²Ö¿â git init
+É¾³ý²Ö¿â rm -rf path£»
