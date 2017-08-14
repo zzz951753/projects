@@ -1,2 +1,2 @@
 # projects
-This is an daily practice file
+This is a daily practice file
