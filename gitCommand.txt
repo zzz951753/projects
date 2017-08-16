@@ -6,4 +6,7 @@
 下载gitHub项目 git clone 地址
 将改动地方添加到版本管理器 git add 文件名/.     
 提交到本地版本控制库  git commit -m "提交说明"
-本地仓库提交到gitHub账号  git push -u origin master
+本地仓库提交到GitHub账号  git push -u origin master
+将本地仓库关联到GitHub上 git remote add origin 地址  
+		如果出现fatal: remote origin already exists.则先输入 git remote rm origin在输入 git remote add... 
+上传之前要先pull一下  git pull origin master
